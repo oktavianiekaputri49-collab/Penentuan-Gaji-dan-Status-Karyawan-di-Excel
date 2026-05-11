@@ -1,0 +1,31 @@
+📊 Penentuan Gaji dan Status Karyawan di Excel
+Deskripsi
+Proyek ini berfokus pada pengolahan data karyawan menggunakan Microsoft Excel untuk menentukan gaji pokok dan status karyawan berdasarkan kode tertentu.
+
+Dataset
+Data terdiri dari:
+- Kode karyawan
+- Nama karyawan
+- Gaji pokok
+- Status karyawan
+
+Tools & Fungsi yang Digunakan
+- Microsoft Excel
+- Fungsi IF
+- Format mata uang
+
+Hasil
+- Gaji pokok ditentukan otomatis berdasarkan kode
+- Status karyawan berhasil diklasifikasikan
+- Data menjadi lebih rapi dan terstruktur
+
+Tujuan Proyek
+- Memahami penggunaan fungsi IF di Excel
+- Melatih pengolahan data karyawan
+- Mengotomatisasi klasifikasi data
+
+Insight
+Logika IF membantu mengolah data secara otomatis sehingga mempercepat proses kerja dan mengurangi kesalahan input manual.
+
+Penutup
+Proyek ini merupakan latihan dasar dalam pengolahan data karyawan menggunakan Excel.
